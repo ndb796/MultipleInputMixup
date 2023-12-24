@@ -1,6 +1,6 @@
 ## Towards Reliable AI Model Deployments:<br> Multiple Input Mixup for Out-of-Distribution Detection (MIM)
 * This repository provides PyTorch implementations of our proposed <b>Multiple Input Mixup for Out-of-Distribution Detection (MIM)</b> method, along with other state-of-the-art (SOTA) methods in OOD detection.
-<p align="center"><img src="https://github.com/Dasol-Choi/MIM/blob/main/resources/MIM_model.png" width=80%/></p>
+<p align="center"><img src="/resources/MIM_model.png" width=80%/></p>
 
 ## Authors
 [Donbing Na](https://github.com/ndb796), [Dasol Choi](https://github.com/Dasol-Choi)
@@ -19,9 +19,9 @@ We utilize a range of Out-of-Distribution (OOD) datasets for comprehensive testi
 ## Performance
 > All experiments are conducted by [pytorch-ood](https://github.com/kkirchheim/pytorch-ood), the OOD detection benchmark framework. 
 *  Comparison with state-of-the-art methods and our MIM using a WideResNet-40-2 classifier.
-<p align="center"><img src="https://github.com/Dasol-Choi/MIM/blob/main/resources/performance.png" width=100%/></p>
+<p align="center"><img src="/resources/performance.png" width=100%/></p>
 
 * Comparison of AUROC between Outlier Exposure (OE) and our MIM using a WideResNet-40-2 classifier.
-<p align="center"><img src="https://github.com/Dasol-Choi/MIM/blob/main/resources/performance_OE.png" width=80%/></p>
+<p align="center"><img src="/resources/performance_OE.png" width=80%/></p>
 
 ## Citation
