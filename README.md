@@ -1,6 +1,6 @@
 ## Towards Reliable AI Model Deployments:<br> Multiple Input Mixup for Out-of-Distribution Detection (MIM)
 * This repository provides PyTorch implementations of our proposed <b>Multiple Input Mixup for Out-of-Distribution Detection (MIM)</b> method, along with other state-of-the-art (SOTA) methods in OOD detection.
-* This work has been accepted to the AAAI 2024 workshop on [Deployable AI](https://sites.google.com/view/dai-2024/home)
+* This work has been accepted to the **AAAI 2024** workshop on [Deployable AI](https://sites.google.com/view/dai-2024/home)
 <p align="center"><img src="/resources/MIM_model.png" width=80%/></p>
 
 ## Authors
