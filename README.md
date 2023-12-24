@@ -1,0 +1,2 @@
+# multiple_input_mixup_for_out_of_distribution_detection
+Multiple Input Mixup for Out of Distribution Detection
