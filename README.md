@@ -3,7 +3,7 @@
 <p align="center"><img src="/resources/MIM_model.png" width=80%/></p>
 
 ## Authors
-[Dongbing Na](https://github.com/ndb796), [Dasol Choi](https://github.com/Dasol-Choi)
+[Dongbin Na](https://github.com/ndb796), [Dasol Choi](https://github.com/Dasol-Choi)
 
 ## Abstract
 >Recent remarkable success in the deep-learning industries has unprecedentedly increased the need for reliable model deployment. For example, the model should alert the user if
